@@ -81,14 +81,14 @@ def  hallar_area_de_la_figura(r1:float,r2:float,h:float) -> float:
     return hallar_area_de_la_figura
 
 if __name__ == "__main__":
-  r1 = float(input("Ingrese el radio de la esfera que va a utilizar: "))
-  r2 = float(input("Ingrese el radio del cono que va a utilizar: "))
-  h = float(input("Ingrese la altura del cono que va a utilizar: "))
+  r1 = float(input("Ingrese el radio de la esfera que va a utilizar en centimetros: "))
+  r2 = float(input("Ingrese el radio del cono que va a utilizar en centimetros: "))
+  h = float(input("Ingrese la altura del cono que va a utilizar en centimetros: "))
 
-  vf =  hallar_volumen_figura(r1,r2,h)
-  af=   hallar_area_de_la_figura(r1,r2,h) 
-  print("El volumen de la figura es " + str(vf)) 
-  print("El area de la figura es " + str(af))
+  volumen_figura =  hallar_volumen_figura(r1,r2,h)
+  area_figura =   hallar_area_de_la_figura(r1,r2,h) 
+  print("El volumen de la figura es " + str(volumen_figura)) 
+  print("El area de la figura es " + str(area_figura))
   ```
   
 
