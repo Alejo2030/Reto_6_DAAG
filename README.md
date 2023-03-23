@@ -94,10 +94,12 @@ if __name__ == "__main__":
   
 2.Dado la figura de la imagen, desarrolle:
 
+[![reto-6-1.png](https://i.postimg.cc/25kny80J/reto-6-1.png)](https://postimg.cc/hXYX3gWb)
 
-##### Una función matemática para calcular el área y el perimetro.
-##### Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b.
-##### Revise como utilizar el valor de pi usando import math y *math.pi
+
+#### Una función matemática para calcular el área y el perimetro.
+#### Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b.
+#### Revise como utilizar el valor de pi usando import math y *math.pi
 
 
 ```ruby
