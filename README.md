@@ -59,7 +59,10 @@ if __name__ == "__main__":
 
 1.Dado la figura de la imagen, desarrolle: 
 
+
 [![reto-6.png](https://i.postimg.cc/4NL4z2dd/reto-6.png)](https://postimg.cc/cr3NWmfy)
+
+
 
 
 ### Una función matemática para calcular el volumen y el área superficial.
