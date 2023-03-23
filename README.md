@@ -131,6 +131,22 @@ if __name__ == '__main__':
     print(" El area de la figura es : " + str(a) + " cm^2")
  ```
 
+## 3.Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente
+
+```ruby
+def kilogramos_de_carne_de_aves(N:int, M:int, K:int) -> int:
+    return N*6 + M*7 + K*1
+
+if __name__ == '__main__':
+    
+    N = int(input("Ingresar el numero de gallinas: "))
+    M = int(input("Ingresar el numero de gallos: "))
+    K = int(input("Ingresar el numero de pollitos: "))
+    
+    
+    peso_de_la_carne = kilogramos_de_carne_de_aves (N, M, K)
+    print("El peso de la carne de las aves es de  " + str(peso_de_la_carne) + " kilogramos ")
+```
   
 
 
