@@ -184,3 +184,19 @@ if __name__ == "__main__":
 ```
 
 
+## 6. El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C.
+
+
+```ruby
+ef calculo_contagiados_del_covid(C:int,D:int) -> int:
+    numero_de_contagiados_por_covid = C*(D)**2
+    return numero_de_contagiados_por_covid
+
+if __name__ == "__main__":
+  C= int(input("Ingrese el número de contagiados actuales: "))
+  D  = int(input("Ingrese los  dias transcurridos: "))
+
+  CA= calculo_contagiados_del_covid(C,D)
+
+  print("El numero de contagiados despues de "+ str(D)+ " dias seran "+ str(CA))
+```
