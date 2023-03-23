@@ -54,3 +54,18 @@ if __name__ == "__main__":
   print("El valor abdsoluto de " + str(s) + " es " + str(math.fabs(s)))
 ```
 
+
+## Puntos del reto
+
+1.Dado la figura de la imagen, desarrolle: 
+
+[![reto-6.png](https://i.postimg.cc/4NL4z2dd/reto-6.png)](https://postimg.cc/cr3NWmfy)
+
+
+### Una función matemática para calcular el volumen y el área superficial.
+
+### Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r1, r2 y h.
+
+### Revise como utilizar el valor de pi usando import math y math.pi 
+
+
