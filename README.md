@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
 ## Puntos del reto
 
-1.Dado la figura de la imagen, desarrolle: 
+##1.Dado la figura de la imagen, desarrolle: 
 
 
 [![reto-6.png](https://i.postimg.cc/4NL4z2dd/reto-6.png)](https://postimg.cc/cr3NWmfy)
@@ -95,7 +95,7 @@ if __name__ == "__main__":
   print("El area de la figura es " + str(area_figura) * " cm^2")
   ```
   
-2.Dado la figura de la imagen, desarrolle:
+## 2.Dado la figura de la imagen, desarrolle:
 
 [![reto-6-1.png](https://i.postimg.cc/25kny80J/reto-6-1.png)](https://postimg.cc/hXYX3gWb)
 
