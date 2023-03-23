@@ -70,6 +70,7 @@ if __name__ == "__main__":
 
 
 ```ruby
+
 import math
 
 def hallar_volumen_figura(r1:float,r2:float,h:float)-> float:
@@ -87,9 +88,20 @@ if __name__ == "__main__":
 
   volumen_figura =  hallar_volumen_figura(r1,r2,h)
   area_figura =   hallar_area_de_la_figura(r1,r2,h) 
-  print("El volumen de la figura es " + str(volumen_figura)) 
-  print("El area de la figura es " + str(area_figura))
+  print("El volumen de la figura es " + str(volumen_figura) + " cm^3") 
+  print("El area de la figura es " + str(area_figura) * " cm^2")
   ```
+  
+2.Dado la figura de la imagen, desarrolle:
+
+
+### Una función matemática para calcular el área y el perimetro.
+### Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b.
+### Revise como utilizar el valor de pi usando import math y *math.pi
+
+
+```ruby
+
   
 
 
