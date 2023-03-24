@@ -263,3 +263,56 @@ print(f"Los números ordenados de forma descendente son: {descendente}")
 print(f"La potencia del mayor número ({mayor}) elevado al menor número ({menor}) es: {potencia}")
 print(f"La raíz cúbica del menor número ({min(lista_numeros)}) es: {raiz_cubica}")
 ```
+## 9. Consultar qué es y cómo funciona pip en python.
+
+PIP es una herramienta esencial para los programadores de Python. Con PIP, los programadores pueden instalar fácilmente los paquetes de software necesarios para 
+agregar funcionalidad a sus programas de Python. PIP es fácil de usar, y con solo unos pocos comandos en la línea de comandos, puedes descargar e instalar paquetes en 
+tu sistema.
+
+
+[![ppi.jpg](https://i.postimg.cc/DzJHKZjX/ppi.jpg)](https://postimg.cc/Nytp6gws)
+
+
+
+Además, PIP permite actualizar y eliminar paquetes. Si hay una nueva versión de un paquete que ya tienes instalado, puedes actualizarlo fácilmente. De esta manera, 
+puedes asegurarte de que siempre estás utilizando la última versión de un paquete. También puedes eliminar paquetes que ya no necesitas para liberar espacio en tu 
+sistema.
+
+## 10.Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
+
+
+
+NumPy - NumPy es una biblioteca de Python que se utiliza para realizar cálculos numéricos y científicos en Python. Se puede instalar con el siguiente comando en la 
+línea de comandos: "pip install numpy".
+
+
+pandas - pandas es una biblioteca de Python utilizada para el análisis y manipulación de datos. Se puede instalar con el siguiente comando en la línea de comandos: 
+"pip install pandas".
+
+
+Matplotlib - Matplotlib es una biblioteca de Python utilizada para crear visualizaciones y gráficos. Se puede instalar con el siguiente comando en la línea de 
+comandos: "pip install matplotlib".
+
+
+SciPy - SciPy es una biblioteca de Python utilizada para realizar cálculos científicos y matemáticos avanzados en Python. Se puede instalar con el siguiente comando en 
+la línea de comandos: "pip install scipy".
+
+
+Scikit-learn - Scikit-learn es una biblioteca de Python utilizada para realizar aprendizaje automático y minería de datos en Python. Se puede instalar con el siguiente 
+comando en la línea de comandos: "pip install scikit-learn".
+
+
+Flask - Flask es un micro marco de Python utilizado para crear aplicaciones web en Python. Se puede instalar con el siguiente comando en la línea de comandos: "pip 
+install Flask".
+
+
+Django - Django es un marco de Python utilizado para crear aplicaciones web y sitios web complejos. Se puede instalar con el siguiente comando en la línea de comandos: 
+"pip install Django".
+
+
+[![puip.jpg](https://i.postimg.cc/x1ScmJH0/puip.jpg)](https://postimg.cc/6yYWJQYS)
+
+
+
+
+
