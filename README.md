@@ -1,4 +1,6 @@
-# :file_folder:  Reto_6_DAAG :file_folder:
+# :file_folder:  Reto_6_ :file_folder:
+***Este repo contiene el desarrollo de los ejercicios y del reto de la clase 9 sobre funciones, espero les guste y sea utila de cierto modo para los lectores de este.*** 
+
 ## :pushpin: Desarrollo del reto 6, Daniel Archila; programación de computadores!! :pushpin:
 
 
