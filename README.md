@@ -1,9 +1,9 @@
-# Reto_6_DAAG
-Desarrollo del reto 6, Daniel Archila; programación de computadores!!
+# :file_folder:  Reto_6_DAAG :file_folder:
+## :pushpin: Desarrollo del reto 6, Daniel Archila; programación de computadores!! :pushpin:
 
 
 
-## Ejercicios 
+##  :running: Ejercicios :running:
  ***°Ley de la gravedad***
  
 ```ruby
@@ -55,7 +55,7 @@ if __name__ == "__main__":
 ```
 
 
-## Puntos del reto
+## :envelope: Puntos del reto :incoming_envelope:
 
 ##1.Dado la figura de la imagen, desarrolle: 
 
@@ -314,5 +314,5 @@ Django - Django es un marco de Python utilizado para crear aplicaciones web y si
 
 
 
-
+###  :thumbsup: :thumbsup: :thumbsup: Espero les guste y pueda ser util para usted!!!!  :thumbsup: :thumbsup: :thumbsup:
 
